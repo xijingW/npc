@@ -1,7 +1,6 @@
 {
     "title":"戏精的博客",
     "subTitle":"一名NPC的记录",
-    "avatarUrl":"https://github.com/xijingW/npc/raw/main/image.jpg",
-    "backgroundColor": "#008000",
+    "avatarUrl":"https://raw.githubusercontent.com/xijingW/npc/main/image.jpg",
     "GMEEK_VERSION":"last"
 }
